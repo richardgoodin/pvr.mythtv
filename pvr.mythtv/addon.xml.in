@@ -9,7 +9,7 @@
     point="kodi.pvrclient"
     library_@PLATFORM@="@LIBRARY_FILENAME@"/>
   <extension point="xbmc.addon.metadata">
-    <platform>all</platform>
+    <platform>visionos</platform>
     <license>GPL-2.0-or-later</license>
     <source>https://github.com/janbar/pvr.mythtv</source>
     <forum>https://forum.kodi.tv/forumdisplay.php?fid=170</forum>
